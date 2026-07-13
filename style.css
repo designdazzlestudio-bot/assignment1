@@ -1,0 +1,173 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#ececec;
+    padding:20px;
+}
+
+.container{
+    width:900px;
+    margin:auto;
+    background:#fff;
+    border:2px solid #444;
+    box-shadow:0 5px 15px rgba(0,0,0,.2);
+}
+.head{
+    background-color: #0f4ab1;
+    color: white; 
+    text-align: center;
+    height: 100px ;
+    padding: 25px;
+    
+}
+.orange{
+    color:  rgb(255, 255, 2);
+}
+.why{
+    background:#f4f8cf;
+    text-align:center;
+    padding:50px;
+}
+
+.why h2{
+    color:#17892d;
+    font-size:34px;
+    margin-bottom:20px;
+}
+
+.why p{
+    font-size:20px;
+    color:#444;
+    margin:15px ;
+}
+
+.blue{
+    color:blue;
+    font-weight:bold;
+}
+
+.red{
+    color:red;
+    font-style:italic;
+    font-weight:bold;
+}
+
+hr{
+    border:1px dashed green;
+    margin:40px 0;
+}
+
+.purple{
+    color:#8d31e8 !important;
+}
+
+.brown{
+    color:brown;
+    font-weight:bold;
+}
+.mission h2{
+    color:#123ac8;
+    font-size:34px;
+    margin-bottom:20px;
+}
+.mission{
+    background:#d8e7f7;
+    text-align:center;
+    padding:50px;
+}
+.mission p{
+    font-size:20px;
+    color:#444;
+}
+
+.green{
+    color:green !important;
+    font-style:italic;
+    font-weight:bold;
+    margin-top:10px;
+}
+.offer{
+    background:#f8dbe1;
+    text-align:center;
+    padding:50px;
+}
+
+.offer h2{
+    color:red;
+    font-size:42px;
+}
+
+.only{
+    color:#333;
+    font-size:24px;
+    font-weight:normal;
+    margin-left:15px;
+}
+
+.price{
+    color:green;
+    font-size:60px;
+    font-weight:bold;
+}
+
+.cut{
+    color:#000;
+    text-decoration:line-through;
+    font-size:34px;
+}
+
+.offer p{
+    margin-top:35px;
+    font-size:20px;
+    color:#444;
+}
+
+.time{
+    color:blue;
+    text-decoration:underline;
+    font-weight:bold;
+}
+.motivation{
+    background:#d8f5d1;
+    text-align:center;
+    padding:50px;
+}
+
+.motivation h2{
+    font-family:Georgia, serif;
+    font-style:italic;
+    font-size:28px;
+    color:#333;
+}
+
+.motivation p{
+    margin:20px 0;
+    font-size:18px;
+}
+
+.motivation h3{
+    margin-top:40px;
+    font-size:24px;
+    color:#333;
+}
+
+.pink{
+    color:purple;
+}
+footer{
+    background:#000;
+    color:#fff;
+    text-align:center;
+    padding:20px;
+    font-size:18px;
+    font-weight:bold;
+}
+
+footer span{
+    color:yellow;
+}
